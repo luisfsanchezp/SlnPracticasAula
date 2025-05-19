@@ -1,1 +1,4 @@
-un texto simple de prueba para verificar como funciona
+Texto salida, prueba funcional de la ejecución correcta del proyecto. 10-24-2020
+Texto salida, prueba funcional de la ejecución correcta del proyecto. 6-20-2023
+Texto salida, prueba funcional de la ejecución correcta del proyecto. 1-13-2024
+Texto salida, prueba funcional de la ejecución correcta del proyecto. 5-16-2025
