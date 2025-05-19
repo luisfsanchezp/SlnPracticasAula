@@ -1,1 +1,1 @@
-un texto simple de prueba para verificar como funciona
+Texto ingresado, prueba funcional de la ejecución correcta del proyecto. 10-24-2020
